@@ -12,7 +12,7 @@
                 	<h1><?php _e( 'Error 404 - Pàgina no encontrada!', 'woothemes' ); ?></h1>
                 </header>
                 <section class="entry">
-                	<p><?php _e( 'The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for.', 'woothemes' ); ?></p>
+                	<p><?php _e( 'La página que intenta llegar no existe, o se ha movido. Por favor, use los menús o el cuadro de búsqueda para encontrar lo que busca.', 'woothemes' ); ?></p>
                 </section>
 
             </div><!-- /.post -->
